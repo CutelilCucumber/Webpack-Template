@@ -1,2 +1,1 @@
-# Todo-List
-Personal to-do list using SOLID principles
+Webpack setup with merged config files
